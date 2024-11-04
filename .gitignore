@@ -1,0 +1,11 @@
+*.deb
+*.egg-info
+*.gc*
+*.o
+*.py[cod]
+.pytest_cache
+.tox
+__pycache__/
+build/
+dist/
+dumb-init
